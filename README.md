@@ -7,6 +7,6 @@
 * [Module2 Solution](https://mohsinfarooq.github.io/Coursera-Assignment/Module2%20Solution/)
 * [Module3 Solution](https://mohsinfarooq.github.io/Coursera-Assignment/Module3%20Solution/)
 * [Module4 Solution](https://mohsinfarooq.github.io/Coursera-Assignment/Module4%20Solution/)
-* [Module5 solution]
+* [Module5 solution](https://mohsinfarooq.github.io/Coursera-Assignment/Module5%20Solution/)
 
 
